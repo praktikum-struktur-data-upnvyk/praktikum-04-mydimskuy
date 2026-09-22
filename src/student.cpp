@@ -18,7 +18,7 @@
 // MENCOBA SENDIRI:
 //   File ini adalah program C++ utuh. Tekan tombol Run di VS Code, atau:
 //     g++ -std=c++17 src/student.cpp -o latihan && ./latihan
-//   Yang dijalankan adalah main() di bagian paling bawah file ini. main() itu
+//   Yang dijalankan adalah main() di bagian pa ling bawah file ini. main() itu
 //   memeragakan seluruh sesi Rani, tidak ikut dinilai, dan bebas Anda ubah.
 //
 // Sebelum diisi, compiler memunculkan peringatan "unused parameter".
